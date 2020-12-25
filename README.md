@@ -3,17 +3,17 @@
 ## My Skills 
 ```js
 let skills = {
-  language : [C, C++, Java, Python, Javascript],
+  Language : [C, C++, Java, Python, Javascript],
   Framework : [Django, Django-REST, Maven],
   Library : [STL, jQuery],
-  layout: {
+  Layout: {
     markup: [HTML],
     styling: [CSS, Bootstrap]
   },
-  database: {
-    Relational : [Oracle, Postgres]
+  Database: {
+    relational : [Oracle, Postgres]
   },
-  tools : [Git, Postman]
+  Tool : [Git, Postman]
 };
 ```
 
