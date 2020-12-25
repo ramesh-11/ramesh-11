@@ -1,5 +1,4 @@
 # 👋 Hello World, I'm Ramesh! 🙏
-<hr>
 ### Here is what i'm working on
 ## My Skills
 ```js
