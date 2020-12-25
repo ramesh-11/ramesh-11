@@ -3,7 +3,7 @@
 ## My Skills 
 ```js
 let skills = {
-  language : [C, C++, Core Java, Python, Javascript],
+  language : [C, C++, Java, Python, Javascript],
   Framework : [Django, Django-REST, Maven],
   Library : [STL, jQuery],
   layout: {
