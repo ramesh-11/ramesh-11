@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Ramesh! 🙏
-### Here is what i'm working on
-## My Skills
+### Here is what i'm working on 🙂
+## My Skills 
 ```js
 let skills = {
   language : [C, C++, Java, Python, Javascript],
