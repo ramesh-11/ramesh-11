@@ -11,7 +11,7 @@ let skills = {
     styling: [CSS, Bootstrap]
   },
   database: {
-    Relational : Oracle, Postgres
+    Relational : [Oracle, Postgres]
   },
   tools : [Git, Postman]
 }
