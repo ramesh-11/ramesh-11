@@ -1,4 +1,25 @@
-### Here is what i'm working on 👋
+# Hi there 👋🙏
+### Here is what i'm working on
+## My Skills
+```js
+let skills = {
+  language : [C, C++, Java, Python, Javascript],
+  Framework : [Django, Maven],
+  Library : [jQuery],
+  layout: {
+    markup: [HTML],
+    styling: [CSS, Bootstrap]
+  },
+  database: {
+    Relational : Oracle, Postgres
+  },
+  tools : [Git, Postman]
+}
+```
+
+
+
+
 
 <!--
 **ramesh-11/ramesh-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
