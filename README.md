@@ -4,8 +4,8 @@
 ```js
 let skills = {
   language : [C, C++, Java, Python, Javascript],
-  Framework : [Django, Django REST, Maven],
-  Library : [jQuery],
+  Framework : [Collections, Django, Django-REST, Maven],
+  Library : [STL, jQuery],
   layout: {
     markup: [HTML],
     styling: [CSS, Bootstrap]
