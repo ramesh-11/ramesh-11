@@ -13,7 +13,7 @@ let skills = {
   Database: {
     relational : [Oracle, Postgres]
   },
-  Tool : [Git, Postman]
+  Tool : [Git]
 };
 ```
 
