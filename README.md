@@ -1,4 +1,5 @@
 # 👋 Hello World, I'm Ramesh! 🙏
+![Ramesh's github stats](https://github-readme-stats.vercel.app/api?username=ramesh-11&show_icons=true&theme=radical&count_private=true)
 ### Here is what i'm working on 🙂
 ## My Skills 
 ```js
@@ -16,8 +17,7 @@ let skills = {
   Tool : [Git]
 };
 ```
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-11&langs_count=6&layout=compact)
 
 
 
