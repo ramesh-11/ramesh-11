@@ -21,7 +21,6 @@ let skills = {
   Tool : [Git]
 };
 ```
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ramesh-11&repo=StudentPortal)
 
 
 <!--
