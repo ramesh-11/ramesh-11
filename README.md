@@ -11,7 +11,7 @@
 
 ```js
 let skills = {
-  Language : [C, C++, Java, Python, Javascript],
+  Language : [C, C++, Java, Python, JavaScript],
   Framework : [Django, Maven],
   Library : [STL, jQuery],
   Layout: {
