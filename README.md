@@ -19,7 +19,7 @@ let skills = {
     styling: [CSS, Bootstrap]
   },
   Database: {
-    relational : [Oracle, Postgres]
+    relational : [MySQL, Oracle, PostgreSQL]
   },
   Tool : [Git]
 };
