@@ -13,15 +13,15 @@
 ## My Skills 
 ```js
 let skills = {
-  Language : [C, C++, Java, Python, JavaScript],
-  Framework : [Spring Boot, Django],
-  Library : [STL, jQuery],
+  Language : [C/C++, Java, Python],
+  Framework : [Spring Boot],
+  Library : [STL],
   Layout: {
     markup: [HTML],
     styling: [CSS, Bootstrap]
   },
   Database: {
-    relational : [MySQL, Oracle, PostgreSQL]
+    relational : [MySQL]
   },
   Tool : [Git, Postman]
 };
