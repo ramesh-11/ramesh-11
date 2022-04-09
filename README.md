@@ -4,20 +4,24 @@
 
 | ![Ramesh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ramesh-11&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh-11&langs_count=11&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) |
 | --- | --- |
-### Here is what i'm working on 🙂
-## My Skills 
+### Here is what I'm working on🙂
 ```js
 let skills = {
   Language : [C/C++, Java, Python, JavaScript],
   Framework : [Spring Boot, Django],
   Library : [STL],
-  Layout: {
-    markup: [HTML],
-    styling: [CSS, Bootstrap]
+  Layout : {
+    markup : [HTML],
+    styling : [CSS, Bootstrap]
   },
-  Database: {
+  Database : {
     relational : [MySQL]
   },
+  DataScience : {
+    analysis : [numpy, pandas],
+    visualization : [matplotlib, seaborn, plotly, cufflinks]
+  },
+  MachineLearning : [scikit-learn],
   Tool : [Git, Postman]
 };
 ```
