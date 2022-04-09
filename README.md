@@ -8,8 +8,8 @@
 ## My Skills 
 ```js
 let skills = {
-  Language : [C/C++, Java, Python],
-  Framework : [Spring Boot],
+  Language : [C/C++, Java, Python, JavaScript],
+  Framework : [Spring Boot, Django],
   Library : [STL],
   Layout: {
     markup: [HTML],
