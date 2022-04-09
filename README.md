@@ -6,7 +6,7 @@
 | --- | --- |
 ### Here is what I'm working on🙂
 ```js
-let skills = {
+let myStack = {
   Language : [C/C++, Java, Python, JavaScript],
   Framework : [Spring Boot, Django],
   Library : [STL],
