@@ -7,7 +7,7 @@
 ### Here is what I'm working on🙂
 ```js
 let myStack = {
-  Language : [C/C++, Java, Python, JavaScript],
+  Language : [C, C++, Java, Python, JavaScript],
   Framework : [Spring Boot, Django],
   Library : [STL],
   Layout : {
