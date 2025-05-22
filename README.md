@@ -24,6 +24,10 @@ let myStack = {
   },
   MachineLearning : [scikit-learn],
   Tool : [Git, Postman]
+  SAP : {
+      Modules: [SAP MM, SAP Ariba, SAP Concur, SAP ABAP, SAP Fiori Forms],
+      Tools: [Kofax-VIM, ServiceNow, HPALM/HPQC]
+  }
 };
 ```
 <!-- ![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=ramesh-11) -->
